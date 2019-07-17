@@ -1,6 +1,6 @@
-# ebay-ministry
+# Scraping
 
-This project is mainly to provide support for ebay department, including staff management, data management for daily use and extracting the data from other websites. It's build with django framework.
+This project is mainly for data management for daily use and extracting the data from other websites. It's build with django framework.
 
 ## Getting Started
 
@@ -11,13 +11,13 @@ Get you a copy of the project up and running on your local machine for developme
 1. Clone this project
 
 ```
-$ git clone git@forge.channelfix.com:chand.chen/ebay-ministry.git
+$ git clone git@github.com:chandchen/scraping.git
 ```
 
 2. Go to the directory where you cloned the project
 
 ```
-$ cd ebay-ministry
+$ cd scraping
 ```
 
 ### Installing
