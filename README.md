@@ -44,7 +44,7 @@ $ sudo apt-get install postgresql postgresql-contrib
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'ebaydb',
+        'NAME': 'yourdb',
         'USER': 'yourusername',
         'PASSWORD': 'yourpassword',
         'HOST': 'localhost',
